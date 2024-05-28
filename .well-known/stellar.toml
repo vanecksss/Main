@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"]
+ACCOUNTS=["GBJOSGB57IKOMYUBTJDPWWN6YUICAQ7WNU7CKWC77DH4BI2UXKHMBECK"]
 
 [DOCUMENTATION]
-ORG_NAME="WallStreetBets"
-ORG_URL="https://www.wsb-stellar.com/"
-ORG_DESCRIPTION="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-ORG_LOGO="https://www.wsb-stellar.com/wsb.png"
+ORG_NAME="VanEck"
+ORG_URL="https://www.vaneckstellar.org/"
+ORG_DESCRIPTION="VanEck is an American investment management firm headquartered in New York City. The firm is primarily engaged in issuing exchange-traded fund products although it also deals with mutual funds and separately managed accounts for institutional investors."
+ORG_LOGO="https://www.vaneckstellar.org/ETHV.png"
 
 
 [[CURRENCIES]]
-code="WSB"
+code="ETHV"
 status="live"
-display_decimals=2
-issuer="GCF5IRGGW3ZXVRY7PIOEZX4MAOZYLZELPZFNXSM6W3Z7ILZ2RRV5JFQD"
+display_decimals=4
+issuer="GBJOSGB57IKOMYUBTJDPWWN6YUICAQ7WNU7CKWC77DH4BI2UXKHMBECK"
 anchor_asset_type="crypto"
-name="WallStreetBets"
-desc="WallStreetBets is a subreddit dedicated to conversations about options trading and stocks, often referred to simply as /r/wallstreetbets."
-image="https://www.wsb-stellar.com/wsb.png"
+name="ETH VanEck"
+desc="VanEck's Ethereum ETF Ticker “ETHV” Listed. "
+image="https://www.vaneckstellar.org/ETHV.png"
