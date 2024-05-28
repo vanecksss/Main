@@ -16,5 +16,5 @@ display_decimals=4
 issuer="GBJOSGB57IKOMYUBTJDPWWN6YUICAQ7WNU7CKWC77DH4BI2UXKHMBECK"
 anchor_asset_type="crypto"
 name="ETH VanEck"
-desc="VanEck's Ethereum ETF Ticker “ETHV” Listed. "
+desc="VanEck's Ethereum ETF Ticker “ETHV” Listed."
 image="https://www.vaneckstellar.org/ETHV.png"
